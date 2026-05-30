@@ -23,7 +23,7 @@ Bridging the gap between **AI agent engineering**, **GenAI infrastructure**, and
 🧑‍💻 **Role:** AI Agent Engineer & AI Architect  
 🏢 **Current:** Samsung R&D  
 💼 **Past Experiences:** Infosys · Zoho  
-🧠 **Tech Focus:** LangChain, local model hosting, Docker, Kubernetes, GenAI infrastructure, Langfuse, OpenTelemetry, LLM/SLM serving  
+🧠 **Tech Focus:** LangChain, Local model hosting, Docker, Kubernetes, GenAI infrastructure, Langfuse, OpenTelemetry, LLM/SLM serving  
 🤖 **Agent Direction:** Creating personalized AI agents for every employee, improving agent memory optimization, and building autonomous systems with human control, enterprise safety, and governance  
 📚 **Currently Learning:** Model fine-tuning, edge-device model hosting, and optimized local inference  
 🎯 **Current Mission:** Building internal AI agents that improve employee productivity and automate enterprise workflows 🚀

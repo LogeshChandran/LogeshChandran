@@ -300,12 +300,14 @@ Currently working on **AI Agent Engineering** and **GenAI Infrastructure** for i
 
 #### 🏢 Infosys
 
-Previously worked in enterprise software engineering and large-scale technology delivery.
+Previously worked on enterprise GenAI, MLOps, data science, and cloud-based ML systems for large-scale retail use cases.
 
-- Enterprise application development
-- Backend and system-level engineering
-- Scalable software delivery
-- Client-focused engineering practices
+- Built GenAI-powered Q&A systems using Gemini, LangChain, ChromaDB, FAISS, and RAG-based retrieval workflows
+- Worked on internal chatbot systems with document chunking, embeddings, vector search, cross-encoder ranking, and query expansion
+- Developed ML solutions for customer behavior prediction, purchase intent classification, and transaction forecasting using large-scale BigQuery datasets
+- Designed automated ML workflows using Vertex AI, Kubeflow Pipelines, Docker, Kubernetes, GKE, and CI/CD practices
+- Worked on model retraining pipelines, model evaluation, data preprocessing, feature engineering, and scalable ML deployment
+- Applied Python, SQL, Pandas, NumPy, Scikit-learn, PyTorch, Flask, BigQuery, and Google Cloud services for data-driven business solutions
 
 #### 🏢 Zoho
 
